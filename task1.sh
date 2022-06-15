@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+echo "hello"
 read N
 a=0
 b=1
